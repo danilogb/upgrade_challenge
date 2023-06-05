@@ -1,5 +1,7 @@
 # MindProber Sports Analysis Project
 
+Read more about the project here: https://danilogb.github.io/2023/06/04/mindprober.html
+
 This repository contains the code and documentation for the MindProber Sports Analysis project, which was completed as part of a soft skills and career development program at the University of Porto in March 2023.
 
 ![Impact Heatmap](https://github.com/danilogb/upgrade_challenge/blob/master/images/impact_zones_heatmap.png?raw=true)
